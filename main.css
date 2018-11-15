@@ -1,5 +1,7 @@
 #hotspot-container {
     position: relative;
+    width: 1110px;
+    height: 644px;
 }
 
 .hotspot, .hotspot-description {
