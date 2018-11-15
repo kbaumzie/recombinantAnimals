@@ -1,0 +1,33 @@
+#hotspot-container {
+    position: relative;
+}
+
+.hotspot, .hotspot-description {
+    position: absolute;
+}
+
+.hotspot {
+    border-radius: 25px;
+}
+
+.hotspot:hover {
+    cursor: crosshair;
+    box-shadow: 0 0 30px #333;
+}
+
+.hotspot-description {
+    display: none;
+    padding: 15px;
+    background-color: #ffffcc;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 5px #AAA;
+}
+
+.hotspot-description hr {
+    margin-bottom: 0.5em;
+}
+
+.hotspot-description-title {
+    line-height: 30px;
+    font-size: 28px;
+}
