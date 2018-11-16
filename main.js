@@ -10,8 +10,8 @@ var hotspots = [
             dimensions: { height: '250px', width: '250px' },
             position: { top: '250px', left: '40px' }
         },
-        title: 'Head',
-        body: 'This is where the description of the Head goes.'
+        title: 'Food Source',
+        body: 'Animals are feed genetically engineered foods such as toxin-maize (corn) which reveals DNA altered fragments in their blood.'
     },
     {
         area: {
@@ -19,11 +19,11 @@ var hotspots = [
             position: { top: '509px', left: '302px' }
         },
         description: {
-            dimensions: { height: '250px', width: '250px' },
+            dimensions: { height: '280px', width: '250px' },
             position: { top: '235px', left: '370px' }
         },
-        title: 'Foot',
-        body: 'This is where the description of the Foot goes.'
+        title: 'Hooves',
+        body: 'Genetically altered animals secrete these infected proteins through their feces and urine. As these animals interact and the walk in their habitat, bacteria infects them and mutations occur.'
     },
     {
         area: {
@@ -34,8 +34,8 @@ var hotspots = [
             dimensions: { height: '250px', width: '250px' },
             position: { top: '340px', left: '690px' }
         },
-        title: 'Stomach',
-        body: 'This is where the description of the Stomach goes.'
+        title: 'Uterus',
+        body: 'This is where microinjection occurs (a way to genetically modify the offspring) to produce a “transgenic animal”. Read more on the about page.'
     },
     {
         area: {
@@ -47,7 +47,7 @@ var hotspots = [
             position: { top: '50px', left: '765px' }
         },
         title: 'Udders',
-        body: 'This is where the description of the Udders goes.'
+        body: 'The milk of an animal holds most of the genetically modified proteins that are produced from changing its genome.'
     },
     {
         area: {
@@ -55,11 +55,11 @@ var hotspots = [
             position: { top: '110px', left: '960px' }
         },
         description: {
-            dimensions: { height: '250px', width: '250px' },
+            dimensions: { height: '350px', width: '250px' },
             position: { top: '65px', left: '675px' }
         },
-        title: 'Tail',
-        body: 'This is where the description of the Tail goes.'
+        title: 'Hair Fibers and Skin Cells',
+        body: 'The growth proteins and influx of hormones in a transgenic animal alter the way their bodies function and produce enzymes. Hair fiber and skin can change in color, texture, and composition as their bodies try to break down these modified materials.'
     }
 ];
 
