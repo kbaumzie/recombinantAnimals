@@ -11,7 +11,7 @@ var hotspots = [
             position: { top: '250px', left: '40px' }
         },
         title: 'Food Source',
-        body: 'Animals are feed genetically engineered foods such as toxin-maize (corn) which reveals DNA altered fragments in their blood.'
+        body: 'Animals are fed genetically engineered foods such as toxin-maize (corn) which reveals DNA altered fragments in their blood.'
     },
     {
         area: {
@@ -23,7 +23,7 @@ var hotspots = [
             position: { top: '235px', left: '370px' }
         },
         title: 'Hooves',
-        body: 'Genetically altered animals secrete these infected proteins through their feces and urine. As these animals interact and the walk in their habitat, bacteria infects them and mutations occur.'
+        body: 'Genetically altered animals secrete infected proteins through their feces and urine. As these animals interact with and walk in their habitat, bacteria infects them and mutations occur.'
     },
     {
         area: {
